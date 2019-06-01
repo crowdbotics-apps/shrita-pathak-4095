@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT shrita_pathak_4095.wsgi:application
